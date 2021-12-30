@@ -1,0 +1,107 @@
+/********************** CLASS SELECTOR ************* */
+.nb{
+  position: relative;
+  display: inline;
+}
+p{
+  color: red;
+}
+.head{
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+
+.headRaj{
+  height: 100px;
+  position: relative;
+  display: inline-block;
+  margin-top: 2px;
+}
+
+.hi{
+  color: #FFFFFF;
+  display:inline;
+  font-family: 'Georama', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+.raj{
+  color:  #FEE715FF;
+  display: inline;
+font-family: 'Sacramento', cursive;
+}
+.webdev{
+  color: #FFFFFF;
+}
+.bdy{
+background-color: #101820FF;
+}
+.spa{
+  margin-left: 10px;
+}
+
+.aboutme{
+  position: relative;
+  top: 20px;
+  width: 50%;
+  text-align: center;
+}
+
+.topic{
+  color:  #FEE715FF;
+  font-family: 'Georama', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+
+}
+.about{
+color: #FFFFFF;
+font-family: 'Georama', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+font-size: 20px;
+}
+.kiit{
+  color: #FFFFFF;
+}
+.working{
+  position: relative;
+  top:100px;
+  width: 50%;
+  margin-left: 40%;
+  text-align: center;
+
+}
+.work-contain{
+  color: #FFFFFF;
+  font-family: 'Georama', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 20px;
+  text-align: left;
+}
+.skill{
+  position: relative;
+top:200px;
+  text-align: left;
+
+}
+.skills-image{
+  width: 300px;
+  height: 300px;
+  align-items: center;
+}
+.thought{
+  position: relative;
+  top: 200px;
+  text-align: center;
+
+}
+.carousel-item{
+  padding: 2% 10%;
+}
+.thoughts-image{
+  width: 300px;
+  height: 300px;
+  align-items: center;
+}
